@@ -1,4 +1,4 @@
 
-public class Rower extends Player {
+public class Rower extends Row {
 
 }

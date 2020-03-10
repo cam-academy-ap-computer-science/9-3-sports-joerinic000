@@ -1,4 +1,4 @@
 
-public class TrapShooter extends Player {
+public class TrapShooter extends TrapShoot {
 
 }
