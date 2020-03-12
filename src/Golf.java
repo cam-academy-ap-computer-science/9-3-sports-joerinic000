@@ -32,4 +32,4 @@ public class Golf extends Player {
 	public void setHI1s(int hI1s) {
 		HI1s = hI1s;
 	}
-}
+} 

@@ -32,4 +32,4 @@ public class TrapShoot extends Player {
 	public void setShotgun(String shotgun) {
 		Shotgun = shotgun;
 	}
-}
+} 

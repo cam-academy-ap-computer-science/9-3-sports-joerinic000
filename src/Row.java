@@ -7,3 +7,4 @@ public class Row extends Player{
 		this.boatType = boatType;
 	}
 }
+ 
