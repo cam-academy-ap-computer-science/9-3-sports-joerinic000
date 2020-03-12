@@ -1,7 +1,5 @@
 
 public class Row extends Player{
-	private String name;
-	private int height;
 	private String boatType;
 	
 	public Row(String name, int height, String boatType) {

@@ -1,9 +1,15 @@
 
 public class Golfer extends Golf{
-
-	public Golfer(String name, int height, int HI1s) {
+	private String club;
+	public Golfer(String name, int height, int HI1s, String club) {
 		super(name, height, HI1s);
-		// TODO Auto-generated constructor stub
+		this.club = club;
 	}
+	
+	public String Golfman() {
+		return getName() + ", " + getHeight() + ", " + getHI1s() + ", " + club;
+	}
+	
+	
 
 }
